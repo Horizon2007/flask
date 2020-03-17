@@ -14,7 +14,7 @@ sendgrid = "*"
 flask-migrate = "*"
 flask-caching = "*"
 flask-assets = "*"
-flask = "*"
+flask = {index = "https://pypi.tuna.tsinghua.edu.cn/simple",version = "*"}
 flask-debugtoolbar = "*"
 cssmin = "*"
 jsmin = "*"
